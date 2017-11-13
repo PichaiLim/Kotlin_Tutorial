@@ -32,6 +32,17 @@ fun main(args: Array<String>) {
 
     /**
      * Variable: Var & Val
+     * Var: update value
+     * Val: can not update value
      * */
+    var a = 10
+    a = 20
+    println(a)
+
+    val b = 5
+    // b = 49
+    println(b)
+
+    println("-----------------------------")
 
 }
