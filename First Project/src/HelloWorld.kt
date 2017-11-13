@@ -13,7 +13,8 @@ fun main(args: Array<String>) {
      * */
     //TODO Create Variables
     var number: Int = 20 // Fix variable type Integer Only
-    // number = 1000
+    println(number)
+    number = 1000 // Change value
     println(number)
 
     var email: String?
@@ -26,5 +27,11 @@ fun main(args: Array<String>) {
     var phone: Int = 123456789
 
     println("My name is " + name + " and i am " + age + " years old and my phone number " + phone)
+
+    println("------------------------------")
+
+    /**
+     * Variable: Var & Val
+     * */
 
 }
