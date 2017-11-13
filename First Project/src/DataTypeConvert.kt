@@ -13,11 +13,11 @@ fun main(args:Array<String>) {
 
     b="200.4"
     var d:Float
-    d=b.toFloat() //Convert Data Type
+    d=b.toFloat() //Convert Data
     println("d = ${d}")
 
     var e:Double
-    e=b.toDouble() //Convert Data Type
+    e=b.toDouble() //Convert Data
     println("e = ${e}")
 
 
